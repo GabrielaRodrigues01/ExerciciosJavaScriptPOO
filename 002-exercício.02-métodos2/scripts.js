@@ -10,7 +10,7 @@ const cachorro = {
         this.raca = raca;
     },
     getRaca: function() {
-        return "A raça é" + this.raca
+        return "A raça é " + this.raca
     }
 }
 
