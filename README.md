@@ -17,3 +17,5 @@ Os exercícios nesse repositório em específico abrangem conceitos de programa�
 6- Definindo uma classe com propriedade e método, e criando uma instância da classe.
 
 7- Demonstração do conceito de herança utilizando classes e a criação e uso de objetos dessas classes. 
+
+8- Utilizando o instanceof para verificar a relação da herança entre as classes e os objetos criados a partir delas. 
