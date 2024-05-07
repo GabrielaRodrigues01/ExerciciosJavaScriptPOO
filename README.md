@@ -19,3 +19,7 @@ Os exercícios nesse repositório em específico abrangem conceitos de programa�
 7- Demonstração do conceito de herança utilizando classes e a criação e uso de objetos dessas classes. 
 
 8- Utilizando o instanceof para verificar a relação da herança entre as classes e os objetos criados a partir delas.  
+
+9- Criando uma classe que simula uma conta no banco e possui uma propiedade de saldo e métodos de deposito e saque. 
+
+10- Criando uma classe que simula um carrinho de compras de um e-commerce onde possui 3 propriedades, sendo: itens, quantidade total e valor total. Criando e utilizando os métodos para adicionar e remover itens; 
