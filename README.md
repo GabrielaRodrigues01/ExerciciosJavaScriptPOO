@@ -14,6 +14,6 @@ Os exercícios nesse repositório em específico abrangem conceitos de programa�
 
 5- Criando um objeto a partir de um prototype. 
 
-6- Utilizando um construtor para instanciar uma classe. 
+6- Definindo uma classe com propriedade e método, e criando uma instância da classe.
 
-7- Definindo uma classe com propriedade e método, e criando uma instância da classe.
+7- Demonstração do conceito de herança utilizando classes e a criação e uso de objetos dessas classes. 
