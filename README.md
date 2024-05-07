@@ -18,4 +18,4 @@ Os exercícios nesse repositório em específico abrangem conceitos de programa�
 
 7- Demonstração do conceito de herança utilizando classes e a criação e uso de objetos dessas classes. 
 
-8- Utilizando o instanceof para verificar a relação da herança entre as classes e os objetos criados a partir delas. 
+8- Utilizando o instanceof para verificar a relação da herança entre as classes e os objetos criados a partir delas.  
